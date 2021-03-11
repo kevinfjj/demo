@@ -2802,7 +2802,7 @@ label {
 }
 
 .c-button > a {
-  font-size: 105px;
+  font-size: 110px;
   color: white;
   font-weight: 700;
 
@@ -2812,7 +2812,7 @@ label {
 .c-button > a:hover {
   color: #26baff;
   border-color: #ff5e14;
-  transform: scale(1.1);
+ 
 }
 }
 .b-button > a {
@@ -3146,7 +3146,7 @@ label {
   font-size: 20px;
 }
 .section-title h2 {
-  font-size: 38px;
+  font-size: 25px;
   margin-top: 22px;
   letter-spacing: -0.3px;
   white-space: nowrap;
